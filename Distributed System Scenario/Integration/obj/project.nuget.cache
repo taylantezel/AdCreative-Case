@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jRi139aZ1coPQ+XI86k3gKH2I5bev0acfjD/WG5bgj4UW42v26c4Bf0XKuHYeXNbynfjIbSe5YDmB0QSIC5/9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Taylan\\Downloads\\IntegrationCase-main\\Distributed System Scenario\\Integration\\Integration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Taylan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Taylan\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Taylan\\.nuget\\packages\\stackexchange.redis\\2.7.10\\stackexchange.redis.2.7.10.nupkg.sha512",
+    "C:\\Users\\Taylan\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

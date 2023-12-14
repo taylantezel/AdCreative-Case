@@ -1,0 +1,3 @@
+﻿Distributed sistemler için redis ile distributed lock uygulayabiliriz yalnız bu yöntemin bazı zayıflıkları olabilir.
+Redis'e erişimde bir sorun olması durumunda lock uyguladığımız kod bloklarımızı uygulamada sorun yaşarız. Bu soruna ağ sorunları, redis in tek bir sunucuda kullanılması gibi durumlarda kaynaklanabilir.
+Ayrıca time out alınması gibi durumlar yaşanabilir, time out süresine dikkat edilmelidir, ayrıca bir sorun yüzündn lock serbest bırakılamayabilir, bu tür durumları göz önünde bulundurmalıyız.
